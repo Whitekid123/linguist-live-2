@@ -1,0 +1,7 @@
+{
+  "name": "Linguist Live",
+  "description": "A premium real-time language learning app powered by Gemini 2.5 Live API for immersive voice practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
